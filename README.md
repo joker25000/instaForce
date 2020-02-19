@@ -15,7 +15,7 @@ Simple script Python for Brute force account instagram
 
 ● git clone https://github.com/joker25000/instaBrute
 
-## ★ Command in Kali :
+## ★ Command in Linux :
 
 cd instaBrute
 
@@ -23,7 +23,7 @@ pip install requests
 
 python insta.py
 
-## ★ Command in Termux 
+## ★ Command in Termux :
 
 cd instaBrute
 
