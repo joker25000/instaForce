@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/instaBrute-brightgreen.svg?maxAge=259200)]()
+[![InstaBrute](https://img.shields.io/badge/instaBrute-brightgreen.svg?maxAge=259200)]()
 [![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
@@ -15,7 +15,7 @@ Simple script Python for Brute force account instagram
 
 ● git clone https://github.com/joker25000/instaBrute
 
-## ★ Command in Linux :
+## ★ Command in Kali :
 
 cd instaBrute
 
@@ -23,7 +23,7 @@ pip install requests
 
 python insta.py
 
-## ★ Command in Termux :
+## ★ Command in Termux 
 
 cd instaBrute
 
@@ -39,7 +39,7 @@ python2 insta.py
 
 ## ★ video tutorial:
 
-[![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.imgur.com/zprcvuc.jpg)]()
+[![ Instabrute - Password attack tool  ](https://i.imgur.com/zprcvuc.jpg)](https://youtu.be/yX-sNYjH1JI)
 
 ## ★ About:
 
