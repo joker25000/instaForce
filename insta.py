@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# instaBrute - Password attack tool
+# instaForce - instagram Password Attack
 ############################################
 # Coder   : Joker-Security
 # Github  : https://github.com/joker25000
@@ -81,7 +81,7 @@ banner = ''' \033[96m
               '.     ) :.__:|      
                 \    \______/
                  '._L/_H____]             \033[92m                        
-    InstaBrute - Password attack tool
+    InstaForce - Instagram Password Attack
   Github : https://github.com/Joker25000'''
 print banner
 insta = brute(raw_input('Enter Your Username \033[91m~>'))
