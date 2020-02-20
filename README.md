@@ -34,12 +34,12 @@ pip2 install requests
 python2 force.py
 ## ★ Screenshot:
 
-<img src="https://i.imgur.com/zprcvuc.jpg" width="23%"></img> 
+<img src="https://i.imgur.com/nb9v9Dq_d.jpg" width="23%"></img> 
 
 
 ## ★ video tutorial:
 
-[![ Instabrute - Password attack tool  ](https://i.imgur.com/zprcvuc.jpg)](https://asciinema.org/a/RePIxha5ck97M67YcpVVZ2k77)
+[![ Instabrute - Password attack tool  ](https://i.imgur.com/nb9v9Dq_d.jpg)](https://asciinema.org/a/RePIxha5ck97M67YcpVVZ2k77)
 ## ★ About:
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
