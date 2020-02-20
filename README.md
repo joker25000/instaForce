@@ -39,8 +39,7 @@ python2 force.py
 
 ## ★ video tutorial:
 
-[![ Instabrute - Password attack tool  ](https://i.imgur.com/zprcvuc.jpg)](https://youtu.be/yX-sNYjH1JI)
-
+[![ Instabrute - Password attack tool  ](https://i.imgur.com/zprcvuc.jpg)](https://asciinema.org/a/RePIxha5ck97M67YcpVVZ2k77)
 ## ★ About:
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
