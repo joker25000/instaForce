@@ -3,7 +3,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
-## ★ instaBrute - Password attack tool
+## ★ instaForce -  instagram Password attack 
 
    Author: Joker-Security 
 
@@ -13,25 +13,25 @@ Simple script Python for Brute force account instagram
 
 ## ★ Download:
 
-● git clone https://github.com/joker25000/instaBrute
+● git clone https://github.com/joker25000/instaForce
 
 ## ★ Command in Kali :
 
-cd instaBrute
+cd instaForce
 
 pip install requests
 
-python insta.py
+python force.py
 
 ## ★ Command in Termux 
 
-cd instaBrute
+cd instaForce
 
 pkg install python2 
 
 pip2 install requests
 
-python2 insta.py
+python2 force.py
 ## ★ Screenshot:
 
 <img src="https://i.imgur.com/zprcvuc.jpg" width="23%"></img> 
